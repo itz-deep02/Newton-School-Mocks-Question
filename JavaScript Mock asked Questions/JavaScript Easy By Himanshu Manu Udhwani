@@ -1,0 +1,24 @@
+- What is JS ?
+[Partially Answered]
+
+- What are the different data types present in javascript?
+[Not Answered]
+
+- Difference between Let Var and Const
+- Explain Hoisting in javascript.
+[Not Answered]
+
+- What is the Output of for(var i=0;i<10;i++) { } console.log(i);
+[Not Answered]
+
+- Explain Implicit Type Coercion in javascript.
+[Not Answered]
+
+- What is the output. var x = 3; var y = "3"; x - y ?
+[Not Answered]
+
+- What is an Immediately Invoked Function in javascript?
+[Not Answered]
+
+- What are closures.
+- What is the difference between Arrow function and normal function ?
