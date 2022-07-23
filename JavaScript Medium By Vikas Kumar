@@ -1,0 +1,31 @@
+what are callback and promises?
+
+call, bind apply
+
+forEach and map
+
+session storage and local storage, cookies
+
+Closures
+
+what is hoisting
+
+console.log(a)
+
+let a =10
+
+------------------------
+
+console.log(a)
+
+var a =10
+
+console.log(a)
+
+const a =10
+
+data types
+
+Asynchronous javascript
+Pass by value Vs Pass by reference,
+Arrow Function
