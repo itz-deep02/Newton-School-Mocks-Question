@@ -1,0 +1,52 @@
+HTML
+******
+1. What is the difference between HTML elements and tags?
+2. How to create a nested webpage in HTML?
+3. What are empty elements?
+4. What is <!DOCTYPE html>?
+5. If I do not put <!DOCTYPE html> will HTML 5 work?
+6. What are HTML Entities?
+7. How to specify the metadata in HTML5?
+
+CSS
+*****
+1.How many display properties present in CSS?
+2. What is the Box model in CSS? Which CSS properties are a part of it?
+3. What are the different types of Selectors in CSS?
+4. What is the difference between inline, inline-block, and block?
+5. Diff b/w grid & flex?
+
+JS
+***
+1. What are the different data types present in javascript?
+2. Explain Hoisting in javascript.
+3. What is temporal dead zone?
+4. Difference between “==” and “===” operators.
+5. What is an Immediately Invoked Function in javascript?
+6. Explain Higher Order Functions in javascript.
+7. Explain Closures in JavaScript.
+8. What are callbacks?
+
+OUTPUT BASED
+****************
+1.
+const data = { "name":"newton", "roll":25}
+data.name="school"
+console.log(data)
+
+2.  console.log(3 > 2 > 1);
+3.  console.log( "A" - "B" + "2");
+4. for (var i = 0; i < 5; i++) {
+	setTimeout(function() { console.log(i); }, i * 1000 );
+}
+5. (function() {
+    console.log(1); 
+    setTimeout(function(){console.log(2)}, 1000); 
+    setTimeout(function(){console.log(3)}, 0); 
+    console.log(4);
+})();
+
+
+TASK
+******
+Create login page design.
