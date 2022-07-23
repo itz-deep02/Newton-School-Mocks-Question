@@ -1,0 +1,28 @@
+1. what is HTML?
+2. Give me example of 2 Html tags ?
+3. What is Difference between HTML tag and HTML elements? 
+4. What is class attribute?
+5. where will u add the JS and css in HTML? 
+6. why we add JS at end of body generally? 
+7. Give me name of different type of css?
+8. what is priority in different types of CSS.(inline, external, internal) 
+
+
+Create a payment app  form 
+
+the fields are
+ name of the account holder-
+ account no- 
+confirm account no -
+available balance -
+amount to be debited- 
+ifsc code - 
+payment channel - 
+mobile no -
+
+ on clicking submit button
+
+Conditions to be satisfied
+
+1.mobile no should be of 10 digits 
+2. all the fields are required

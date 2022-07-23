@@ -1,0 +1,29 @@
+1. brief about javascript --- answered.
+2. What is IIFE(Immediately Invoked Function Expression) --- answered.
+3. create an object with the method in js --- coded.
+4. what is the scope and scope chain? ---  answered.
+5.  const language = 'Brazillian Portuguese'
+const name = 'Ana'
+
+function displayIntroduction() {
+  const name = 'Maria'
+  const country = 'Brazil'
+
+  function displayInfo() {
+    const name = 'Joana'
+    console.log(`My name is ${name}, I'm from ${country} and I speak ${language}`)
+  }
+
+  return displayInfo()
+}
+
+displayIntroduction() --- answered.
+6. example of 6 element array and attach splice and slice methods to an array and explain them --- answered.
+7. map, reduce methods in an array --- coded.
+8. callBack functions --- answered.
+9. getters and setters in an object? --- partially answered.
+10. Object Destructuring and Array Destructuring --- not answered
+11. Event loop in js ---- not answered.
+12. what are promises and stages of promises --- answered.
+13. spread operators and rest parameters --- answered.
+14. HOF --- answered.
