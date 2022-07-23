@@ -1,0 +1,29 @@
+1. Difference between let, var and const 
+2. Difference between == and === 
+3. Output question
+      console.log (2 == '2')
+      console.log (2 === '2')
+4. Explain map function and filter function in javascript 
+5.What is hoisting in JS ? 
+6. What are closures in JS ?
+7. What is Arrow function in Javascript
+8. Use of this keyword in JS 
+9. Output Questions 
+console.log ('1' + '2')
+console.log (1 + 2 + '3')
+console.log (1 + 2 + '3' + 4)
+
+10. Difference between undefined and null 
+11.What is event loop in JS ? 
+12. What is call stack in JS ? 
+13. What are rest and spread operators in JS ? 
+14 What is use of setTimeout 
+15. What is use of setInterval 
+16. What is callback function in JS ? 
+17. Difference between function declaration and function expression 
+18. What is IIFE
+19. Difference between call, bind and apply
+20. What is the use of push and pop method in JS ? 
+21. What is the use of shift and unshift method in JS ? 
+22. What is the use of split method in JS ? 
+23. What is the use of slice method in JS ?
