@@ -1,0 +1,40 @@
+1.What is JavaScript?
+2.Difference between let and var.
+3.Datatypes in JS.
+4.Explain scope chain.
+5.var a ={
+first:"Subham",
+last:"Pandey",
+age:"20",
+profession:"developer"
+}
+how can you change profession value to "engineer".
+6.What is arrow function?
+7.Hoisting.
+var a;
+console.log(a);
+
+var a;
+a=10;
+console.log(a)
+
+console.log(a);
+let a=10;
+
+console.log(a);
+var a=10;
+8.This keyword.
+const test = {
+  prop: 42,
+  func: function() {
+    return this;
+  },
+};
+
+console.log(test.func());
+9.What is the difference between == and === operators
+10.What is closure. write a code and explain.
+11.Find 2nd largest element from an array.
+12.Sort an array in accending order.
+13.What is event.
+14.JavaScript object.
