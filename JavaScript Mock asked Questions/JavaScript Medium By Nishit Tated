@@ -1,0 +1,18 @@
+1) Brief Intro about yourself.
+2) Any projects you have worked on, demonstrating your major skills?
+3) What is asynchronous & synchronous? Any examples? - Partially answered
+4) What is a promise and how it works? - Correct answered
+5) What is async / await? - Correct answered
+6) What is the difference between an attribute & a property? - Partially answered
+7) Explain the difference between mutable and immutable objects. Any examples? - Partially answered
+8) What is the use of a constructor function in JS? - Correct answered 
+9) What are the differences between while and do-while loops in JS? - Correct answered
+10) JS is an event driven language. How? - Partially answered
+11) In array, what is the main difference between slice & splice? - Correct answered
+12) In string, to return the character from a specific index which method is used? - Not answered
+13) How do you trim a string in JS? - Not answered
+14) What is NaN property? - Correct answered
+15) JS is treated as a Single threaded language. Why? - Partially answered
+16) What is an anonymous function? - Correct answered
+17) Create a static page for conference event. Divide your page into 3 parts - header in top, main section & footer in bottom. Mention different links for speaker, venue & schedule in header section. In main section, create a registration form for users for attending an event. Then last add footer section. Using HTML/HTML5 & CSS complete this static page, showcasing your knowledge in depth.
+18) Follow-up questions on above
